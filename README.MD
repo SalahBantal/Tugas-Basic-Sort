@@ -1,2 +1,2 @@
-# Ini adalah pembelajaran tentang JAVA
+# Ini Adalah Pembelajaran Tentang JAVA
 ## The code is on another  branch
